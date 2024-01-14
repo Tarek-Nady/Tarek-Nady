@@ -12,11 +12,12 @@ Welcome to my GitHub profile! I am Tarek Nady, a passionate software developer w
 - **Spring & Spring Boot**: Skilled in using Spring Framework for creating scalable and secure web applications. Proficient with Spring Boot for rapid application development.
 - **Angular**: Experienced in developing dynamic and responsive front-end interfaces using Angular.
 - **Databases**: Deep understanding of database management, proficient in MySQL, and experienced with Hibernate ORM for database interactions.
-- **Web Technologies**: Knowledgeable in JSP, JSF, and Servlets for building web applications.
+- **Web Technologies**: Skilled in HTML, CSS, and Bootstrap for creating visually appealing and responsive designs. Familiar with JSP, JSF, and Servlets for comprehensive web application development.
+- **C++ & Competitive Programming**: Competent in C++ with experience in competitive programming, honing problem-solving skills and algorithmic thinking.
 
-I have a strong grasp of algorithms and data structures, which allows me to solve complex problems efficiently. I am always keen to learn new technologies and methodologies that can drive better outcomes in my projects.
+My approach to software development is structured around rigorous problem-solving, utilizing algorithms and data structures to devise optimal solutions. I'm continuously expanding my knowledge and staying updated with the latest industry trends.
 
-Feel free to explore my repositories and get in touch if you're interested in collaborating on a project or just want to connect!
+I'm open to collaboration on innovative projects and welcome any opportunities to discuss potential partnerships. Feel free to delve into my repositories or reach out if you'd like to connect!
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady)](https://github.com/anuraghazra/github-readme-stats)
