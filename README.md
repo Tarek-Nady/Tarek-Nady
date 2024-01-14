@@ -3,7 +3,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-@TarekNady-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tarek.nady.106)](https://www.facebook.com/tarek.nady.106)
 ### Hi there 👋🏽, I'm [Tarek Nady!]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarek-Nady" alt="EngTarekNady" /> </p> 
-
 Welcome to my GitHub profile! I am Tarek Nady, a dedicated and passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions. My skill set spans across various technologies and frameworks including:
 
 - **Java**: Proficient in Java for enterprise-grade applications, with an emphasis on writing clean and efficient code.
@@ -42,7 +41,6 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/java.png"></code>
 
 <br/>
 <div align="center">
