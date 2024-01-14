@@ -27,7 +27,8 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 - 📫 How to reach me: tarek.nady98@gmail.com
 - 📝[Resume](https://docs.google.com/document/d/1TOD3kDyypHO1DDQNytLliZW5O_-cM-GZOph9U8HbO68/edit)
 - 
-**Languages and Tools:**   
+**Languages and Tools:**
+  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
