@@ -1,16 +1,15 @@
 ### Hi there 👋
+Welcome to my GitHub profile! I am Tarek Nady, a passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions. My skill set spans across various technologies and frameworks including:
 
-<!--
-**Tarek-Nady/Tarek-Nady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Java**: Proficient in Java for enterprise-grade applications, with an emphasis on writing clean and efficient code.
+- **Spring & Spring Boot**: Skilled in using Spring Framework for creating scalable and secure web applications. Proficient with Spring Boot for rapid application development.
+- **Angular**: Experienced in developing dynamic and responsive front-end interfaces using Angular.
+- **Databases**: Deep understanding of database management, proficient in MySQL, and experienced with Hibernate ORM for database interactions.
+- **Web Technologies**: Knowledgeable in JSP, JSF, and Servlets for building web applications.
 
-Here are some ideas to get you started:
+I have a strong grasp of algorithms and data structures, which allows me to solve complex problems efficiently. I am always keen to learn new technologies and methodologies that can drive better outcomes in my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and get in touch if you're interested in collaborating on a project or just want to connect!
+ 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady)](https://github.com/anuraghazra/github-readme-stats)
