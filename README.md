@@ -6,7 +6,7 @@
 
 <br/>
 
-Welcome to my GitHub profile! I am Tarek Nady, a passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions. My skill set spans across various technologies and frameworks including:
+Welcome to my GitHub profile! I am Tarek Nady, a dedicated and passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions. My skill set spans across various technologies and frameworks including:
 
 - **Java**: Proficient in Java for enterprise-grade applications, with an emphasis on writing clean and efficient code.
 - **Spring & Spring Boot**: Skilled in using Spring Framework for creating scalable and secure web applications. Proficient with Spring Boot for rapid application development.
