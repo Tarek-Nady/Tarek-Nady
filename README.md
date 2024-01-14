@@ -1,4 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tarek_Nady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarek-nady-447aa3158/)](https://www.linkedin.com/in/tarek-nady-447aa3158/)
+[![Twitter Badge](https://img.shields.io/badge/-@Ahmed__Salah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/engahmedsalah98)](https://twitter.com/engahmedsalah98)
+[![Facebook Badge](https://img.shields.io/badge/-@tarek.nady.106?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/tarek.nady.106)](https://facebook.com/tarek.nady.106)
 ### Hi there 👋, I'm [Tarek Nady!]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarek-Nady" alt="EngAhmedSalah" /> </p> 
 
