@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tarek_Nady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarek-nady-447aa3158/)](https://www.linkedin.com/in/tarek-nady-447aa3158/)
 ### Hi there 👋, I'm [Tarek Nady!]
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EngAhmedSalah" alt="EngAhmedSalah" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarek-Nady" alt="EngAhmedSalah" /> </p> 
 
 <br/>
 
