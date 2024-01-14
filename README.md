@@ -1,3 +1,4 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Tarek_Nady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarek-nady-447aa3158/)](https://www.linkedin.com/in/tarek-nady-447aa3158/)
 ### Hi there 👋, I'm [Tarek Nady!]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EngAhmedSalah" alt="EngAhmedSalah" /> </p> 
 
@@ -24,18 +25,4 @@ Feel free to explore my repositories and get in touch if you're interested in co
 
 
 
-### Hi there 👋,  Tarek Nady
-####  Software Development
-![ Software Development]( )
-
-I am Tarek Nady, a passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions
-
-Skills:  Java/Spring/Spring boot/Angular/MySql/C++/Hibernate/Jsp/Jsf/Servlet
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarek-nady-447aa3158//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1qm8WHiMq_WDLFWZd0EJ4g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/tarek7889/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/T_Nady)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady &show_icons=true)  
-
+ 
