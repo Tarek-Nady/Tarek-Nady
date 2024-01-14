@@ -21,9 +21,17 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 --**My Skills**
 ####  ![](https://img.shields.io/badge/Backend%20Development-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Microservices-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Java%20Development-%7C-yellowgreen) ![](https://img.shields.io/badge/Javascript%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Spring%20Boot-%7C-yellowgreen)   ![](https://img.shields.io/badge/JavaEE-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Hibernate%20ORM-%7C-blue) ![](https://img.shields.io/badge/Angular-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Algorithm-%7C-blue)  ![](https://img.shields.io/badge/Data%20Structure-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Html-%7C-yellowgreen) ![](https://img.shields.io/badge/Css-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Bootstrap-%7C-blue)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady)](https://github.com/anuraghazra/github-readme-stats)
 
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently partcipating in as much Hackathons & Programming Competitions as I can[Tarek Nady](https://leetcode.com/tarek7889/)
+- 🌱 I’m currently learning GraphQL and DevOps
+- 👌 working on my open-source project colmplete ecommerce application using spring boot and angular [Repo]([https://github.com/EngAhmedSalah/Budgie-Birds-Mail-Client](https://github.com/Tarek-Nady/angular-ecommerce)) 
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own Youtube Channel [ahmed salah]([https://www.youtube.com/channel/UCM-3K0kJ5xs7KTKfDGz1LYQ](https://www.youtube.com/channel/UC1qm8WHiMq_WDLFWZd0EJ4g)) in 2021
+- 📫 How to reach me: tarek.nady98@gmail.com
+- 📝[Resume]([https://docs.google.com/document/d/1dfb_lzSt68zPIYrivpUqMjZmoW90PFok/edit?usp=sharing&ouid=115202127021318529434&rtpof=true&sd=true](https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=in%3Asent&isrefinement=true/QgrcJHsHrTDDvzvNHlvrJwCZhbSkTwbKQgv?projector=1&messagePartId=0.1)https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=in%3Asent&isrefinement=true/QgrcJHsHrTDDvzvNHlvrJwCZhbSkTwbKQgv?projector=1&messagePartId=0.1)
 
  
 
