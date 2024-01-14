@@ -20,6 +20,10 @@ My approach to software development is structured around rigorous problem-solvin
 I'm open to collaboration on innovative projects and welcome any opportunities to discuss potential partnerships. Feel free to delve into my repositories or reach out if you'd like to connect!
  
 
+--**My Skills**
+####      ![](https://img.shields.io/badge/Backend%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Microservices-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Angular-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Spring%20Boot-%7C-yellowgreen) ![](https://img.shields.io/badge/Hibernate%20ORM-%7C-blue) ![](https://img.shields.io/badge/JavaEE-%3C%2F%3E-blueviolet)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarek-nady-447aa3158//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1qm8WHiMq_WDLFWZd0EJ4g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/tarek7889/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/T_Nady)  
