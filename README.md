@@ -17,6 +17,7 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 --**My Skills**
 ####  ![](https://img.shields.io/badge/Backend%20Development-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Microservices-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Java%20Development-%7C-yellowgreen) ![](https://img.shields.io/badge/Javascript%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Spring%20Boot-%7C-yellowgreen)   ![](https://img.shields.io/badge/JavaEE-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Hibernate%20ORM-%7C-blue) ![](https://img.shields.io/badge/Angular-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Algorithm-%7C-blue)  ![](https://img.shields.io/badge/Data%20Structure-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Html-%7C-yellowgreen) ![](https://img.shields.io/badge/Css-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Bootstrap-%7C-blue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady)](https://github.com/anuraghazra/github-readme-stats)
+
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons & Programming Competitions as I can[Tarek Nady](https://leetcode.com/tarek7889/)
 - 🌱 I’m currently learning DevOps Tools
