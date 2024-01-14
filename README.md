@@ -44,6 +44,11 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/java.png"></code>
 
+<br/>
+<div align="center">
+<img src="https://github.com/Tarek-Nady/Tarek-Nady/blob/master/screen.gif" alt="Tarek Nady" />
+</div>
+<br/>
  
 
 
