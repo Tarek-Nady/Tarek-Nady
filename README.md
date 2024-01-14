@@ -27,7 +27,7 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own Youtube Channel [ahmed salah]([https://www.youtube.com/channel/UCM-3K0kJ5xs7KTKfDGz1LYQ](https://www.youtube.com/channel/UC1qm8WHiMq_WDLFWZd0EJ4g)) in 2021
 - 📫 How to reach me: tarek.nady98@gmail.com
 - 📝[Resume](https://docs.google.com/document/d/1TOD3kDyypHO1DDQNytLliZW5O_-cM-GZOph9U8HbO68/edit)
-- 
+
 **Languages and Tools:**
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
