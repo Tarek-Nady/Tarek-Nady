@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm [Tarek Nady!]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EngAhmedSalah" alt="EngAhmedSalah" /> </p> 
+
+<br/>
+
 Welcome to my GitHub profile! I am Tarek Nady, a passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions. My skill set spans across various technologies and frameworks including:
 
 - **Java**: Proficient in Java for enterprise-grade applications, with an emphasis on writing clean and efficient code.
