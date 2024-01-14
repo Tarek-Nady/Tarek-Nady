@@ -33,5 +33,5 @@ Skills:  Java/Spring/Spring boot/Angular/MySql/C++/Hibernate/Jsp/Jsf/Servlet
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tarek-nady-447aa3158//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1qm8WHiMq_WDLFWZd0EJ4g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/tarek7889/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/T_Nady)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username= &show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-Nady &show_icons=true)  
 
