@@ -19,7 +19,7 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
  
 
 --**My Skills**
-####  ![](https://img.shields.io/badge/Backend%20Development-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Java%20Development-%FA%80%72-Salmon) ![](https://img.shields.io/badge/Javascript%20Development-#E9967A-DarkSalmon) 
+####  ![](https://img.shields.io/badge/Backend%20Development-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Java%20Development-%FA%80%72-Salmon) ![](https://img.shields.io/badge/Javascript%20Development-%E9%96%7A-DarkSalmon) 
 ![](https://img.shields.io/badge/Algorithm-%3C%2F%3E-blueviolet)  ![](https://img.shields.io/badge/Data%20Structure-%3C%2F%3E-blueviolet)
 ![](https://img.shields.io/badge/Microservices-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Angular-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Spring%20Boot-%7C-yellowgreen) ![](https://img.shields.io/badge/Hibernate%20ORM-%7C-blue) ![](https://img.shields.io/badge/JavaEE-%3C%2F%3E-blueviolet)
 
