@@ -46,7 +46,7 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 
 <br/>
 <div align="center">
-<img src="https://github.com/Tarek-Nady/Tarek-Nady/blob/master/screen.gif" alt="Tarek Nady" />
+<img src="https://github.com/Tarek-Nady/Tarek-Nady/blob/master/coderman.gif" alt="Tarek Nady" />
 </div>
 <br/>
  
