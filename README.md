@@ -26,12 +26,22 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons & Programming Competitions as I can[Tarek Nady](https://leetcode.com/tarek7889/)
-- 🌱 I’m currently learning GraphQL and DevOps
-- 👌 working on my open-source project colmplete ecommerce application using spring boot and angular [Repo]([https://github.com/EngAhmedSalah/Budgie-Birds-Mail-Client](https://github.com/Tarek-Nady/angular-ecommerce)) 
+- 🌱 I’m currently learning DevOps Tools
+- 👌 working on my open-source project complete ecommerce application using spring boot and angular [Repo](https://github.com/Tarek-Nady/angular-ecommerce) 
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own Youtube Channel [ahmed salah]([https://www.youtube.com/channel/UCM-3K0kJ5xs7KTKfDGz1LYQ](https://www.youtube.com/channel/UC1qm8WHiMq_WDLFWZd0EJ4g)) in 2021
 - 📫 How to reach me: tarek.nady98@gmail.com
-- 📝[Resume]([https://docs.google.com/document/d/1dfb_lzSt68zPIYrivpUqMjZmoW90PFok/edit?usp=sharing&ouid=115202127021318529434&rtpof=true&sd=true](https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=in%3Asent&isrefinement=true/QgrcJHsHrTDDvzvNHlvrJwCZhbSkTwbKQgv?projector=1&messagePartId=0.1)https://mail.google.com/mail/u/0/#advanced-search/attach_or_drive=true&query=in%3Asent&isrefinement=true/QgrcJHsHrTDDvzvNHlvrJwCZhbSkTwbKQgv?projector=1&messagePartId=0.1)
+- 📝[Resume](https://docs.google.com/document/d/1TOD3kDyypHO1DDQNytLliZW5O_-cM-GZOph9U8HbO68/edit)
+
+**Languages and Tools:**   
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
  
 
