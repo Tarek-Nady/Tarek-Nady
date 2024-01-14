@@ -49,8 +49,9 @@ I'm open to collaboration on innovative projects and welcome any opportunities t
 <img src="https://github.com/Tarek-Nady/Tarek-Nady/blob/master/coderman.gif" alt="Tarek Nady" />
 </div>
 <br/>
- 
 
-
+<div align="center">
+⭐️⭐️⭐️⭐️⭐️ From [Tarek Nady](https://github.com/Tarek-Nady)
+</div>
 
  
