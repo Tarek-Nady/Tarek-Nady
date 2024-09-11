@@ -3,13 +3,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-@TarekNady-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tarek.nady.106)](https://www.facebook.com/tarek.nady.106)
 ### Hi there 👋🏽, I'm [Tarek Nady!]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarek-Nady" alt="EngTarekNady" /> </p> 
-Welcome to my GitHub profile! I am Tarek Nady, a dedicated and passionate software developer with a strong foundation in Java and a penchant for creating robust backend solutions. My skill set spans across various technologies and frameworks including:
+Welcome to my GitHub profile! I am Tarek Nady, a dedicated and passionate software developer with a strong foundation in programming and a penchant for creating robust software solutions. My skill set spans across various technologies and frameworks including:
 
-- **Java**: Proficient in Java for enterprise-grade applications, with an emphasis on writing clean and efficient code.
-- **Spring & Spring Boot**: Skilled in using Spring Framework for creating scalable and secure web applications. Proficient with Spring Boot for rapid application development.
-- **Angular**: Experienced in developing dynamic and responsive front-end interfaces using Angular.
-- **Databases**: Deep understanding of database management, proficient in MySQL, and experienced with Hibernate ORM for database interactions.
-- **Web Technologies**: Skilled in HTML, CSS, and Bootstrap for creating visually appealing and responsive designs. Familiar with JSP, JSF, and Servlets for comprehensive web application development.
+- **Odoo**: Proficient in Odoo Ecosystem for custom modules, with an emphasis on writing clean and efficient code.
+- **Python**: Skilled in using Python for creating scalable and secure web applications. Proficient with Python frameworks for rapid application development.
+- **Javascript**: Experienced in developing dynamic and responsive front-end interfaces using Angular.
+- **Databases**: Deep understanding of database management, proficient in postgres
+- **Web Technologies**: Skilled in HTML, CSS, and Bootstrap for creating visually appealing and responsive designs. for comprehensive web application development.
 - **C++ & Competitive Programming**: Competent in C++ with experience in competitive programming, honing problem-solving skills and algorithmic thinking.
 
 My approach to software development is structured around rigorous problem-solving, utilizing algorithms and data structures to devise optimal solutions. I'm continuously expanding my knowledge and staying updated with the latest industry trends.
