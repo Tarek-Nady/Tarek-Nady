@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am Tarek Nady, a dedicated and passionate softwa
 - **Javascript**: Experienced in developing dynamic and responsive front-end interfaces using Angular.
 - **Databases**: Deep understanding of database management, proficient in postgres
 - **Web Technologies**: Skilled in HTML, CSS, and Bootstrap for creating visually appealing and responsive designs. for comprehensive web application development.
-- **C++ & Competitive Programming**: Competent in C++ with experience in competitive programming, honing problem-solving skills and algorithmic thinking.
+- **Competitive Programming**: Competent in Python with experience in competitive programming, honing problem-solving skills and algorithmic thinking.
 
 My approach to software development is structured around rigorous problem-solving, utilizing algorithms and data structures to devise optimal solutions. I'm continuously expanding my knowledge and staying updated with the latest industry trends.
 I'm open to collaboration on innovative projects and welcome any opportunities to discuss potential partnerships. Feel free to delve into my repositories or reach out if you'd like to connect!
